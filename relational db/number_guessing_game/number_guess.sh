@@ -37,7 +37,7 @@ GUESS_NUMBER() {
   while [[ $PLAYER_GUESS != $TO_GUESS ]]
   do
     #PLAYER_GUESS is not an integer
-    if [[ $PLAYER_GUESS =~ [[:alpha:]*[:punct:]*]]
+    if [[ $PLAYER_GUESS =~ [[:alpha:]*[:punct:]*] ]]
     then
       echo -e "\nThat is not an integer, guess again:"
       read PLAYER_GUESS
