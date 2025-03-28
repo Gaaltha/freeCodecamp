@@ -1,6 +1,6 @@
 # Mean-Variance-Standard Deviation Calculator
 
-My solution for the Mean-Variance-Standard Deviation Calculator project.
+My solution for the Mean-Variance-Standard Deviation Calculator project on freeCodeCamp.
 _______________
 Instructions for building this project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
 _______________
